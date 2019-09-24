@@ -5065,26 +5065,13 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rCZUo9crpF {
+.cid-rD06vwAXhI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background: linear-gradient(45deg, #aa8ff2, #1d0650);
 }
-.cid-rCZUo9crpF .title {
-  margin-bottom: 2rem;
-}
-.cid-rCZUo9crpF .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rCZUo9crpF a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rCZUo9crpF a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rCZUo9crpF textarea.form-control {
-  min-height: 188px;
+.cid-rD06vwAXhI .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rAEIzs2hqs {
   padding-top: 30px;
