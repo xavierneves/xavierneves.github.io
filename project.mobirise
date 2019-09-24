@@ -1036,6 +1036,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -3254,6 +3267,19 @@
                 "videoUrl": "https://youtu.be/kzesC2txqYk",
                 "image": "@PROJECT_PATH@/assets/images/vier-terra.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/vier-terra.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "AR, Animation",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201987-131432019-8-6-3-45-33.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/kzesC2txqYk",
+                "image": "@PROJECT_PATH@/assets/images/rrevierartist.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/rrevierartist.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
