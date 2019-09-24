@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vier Nev",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1045,6 +1045,32 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vier-block-12.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/vier-block-12.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vier-ink-block-9.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/vier-ink-block-9.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -3241,6 +3267,19 @@
                 "videoUrl": "https://youtu.be/kzesC2txqYk",
                 "image": "@PROJECT_PATH@/assets/images/rrevierartist.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/rrevierartist.gif",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Still",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/vier-terra-2.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
